@@ -1,0 +1,56 @@
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\databaselite.db
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\login-app.exe.config
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\login-app.exe
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\login-app.pdb
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.ManUpdated.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Mandetalle.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Manregistro.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Clientesfrm.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Home.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Login.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Properties.Resources.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login_app.Serviciosfrm.resources
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.csproj.CopyComplete
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.exe
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.pdb
+C:\Users\Usuario\Downloads\login-app (1)\login-app\obj\Debug\login-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\x86\sqlite3.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\x64\sqlite3.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\System.Data.SQLite.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Usuario\Downloads\login-app (1)\login-app\bin\Debug\System.Data.SQLite.xml
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\x86\sqlite3.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\x64\sqlite3.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\databaselite.db
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\login-app.exe.config
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\login-app.exe
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\login-app.pdb
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\System.Data.SQLite.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\bin\Debug\System.Data.SQLite.xml
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.csproj.AssemblyReference.cache
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.ManUpdated.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Mandetalle.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Manregistro.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Clientesfrm.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Home.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Login.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Properties.Resources.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login_app.Serviciosfrm.resources
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.csproj.GenerateResource.cache
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.csproj.CopyComplete
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.exe
+C:\Users\Usuario\Repositorios\exam-lang-02-ammp\login-app\obj\Debug\login-app.pdb
